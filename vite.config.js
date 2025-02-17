@@ -13,4 +13,5 @@ export default defineConfig({
     outDir: 'dist',
     emptyOutDir: true,
   },
+  base: '/habitflow/',  // Add this line
 });
